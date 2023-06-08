@@ -41,12 +41,7 @@ This repository is for storing my code as I learn Node.js. It contains a variety
 **Full Changelog**: https://github.com/YashNuhash/Testing-in-NodeJS/commits/Release-V1.0.0
 
 <br>
-            
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
-
+          
 ## Installation ![](https://i.imgur.com/waxVImv.png)
 
 Install my-project with npm
