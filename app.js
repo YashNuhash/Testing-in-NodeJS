@@ -1,6 +1,8 @@
 var http = require('http');
 var date = require('./module');
 var fs = require('fs');
+var url = require('url');
+
 
 http.createServer(function(req,res){
     fs.readFile('index.html',function(err,data){
@@ -20,5 +22,15 @@ http.createServer(function(req,res){
         if (err) throw err;
         console.log('Replaced!');
       });
+
+      var adress = 'http://localhost:8080/default.htm?year=2024&month=JUNE';
+      var query = url.parse(adress, true);
+      console.log(query.host);
+      console.log(query.pathname);
+      console.log(query.search);
+
+      var queryData = query.query;
+      console.log(queryData.month);
+
 
 }).listen(8080);

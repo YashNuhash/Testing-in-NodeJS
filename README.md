@@ -1,12 +1,11 @@
-![header_en](https://miro.medium.com/v2/resize:fit:512/1*nZhoHiHP1WZKdCIAAYZHaw.png)
-
-
-# Testing-in-NodeJS ![](https://i.imgur.com/waxVImv.png)
+<p align = "center">
+<img src="https://socialify.git.ci/YashNuhash/Testing-in-NodeJS/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" alt="Testing-in-NodeJS" width="640" height="320" />
+</p>
 
 This repository is for storing my code as I learn Node.js. It contains a variety of projects, from simple to complex, that I have worked on. I hope that by sharing my code, I can help other people learn Node.js as well.
 
 
-## Technologies Used in this Repository ![](https://i.imgur.com/waxVImv.png)
+## Technologies Used in this Repository
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,githubactions,nodejs" />
@@ -41,12 +40,11 @@ This repository is for storing my code as I learn Node.js. It contains a variety
 
 **Full Changelog**: https://github.com/YashNuhash/Testing-in-NodeJS/commits/Release-V1.0.0
 
-![](https://i.imgur.com/waxVImv.png)
-
-## Badges ![](https://i.imgur.com/waxVImv.png)
-
+<br>
+            
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 
 ## Installation ![](https://i.imgur.com/waxVImv.png)
@@ -58,7 +56,7 @@ Install my-project with npm
   cd my-project
 ```
     
-## Run Locally ![](https://i.imgur.com/waxVImv.png)
+# Run Locally:
 
 Clone the project
 
@@ -86,7 +84,7 @@ Start the server
 
 
 
-## Authors ![](https://i.imgur.com/waxVImv.png)
+## Authors:
 
 - [@NUHASHROXME](https://github.com/YashNuhash)
 
