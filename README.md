@@ -12,36 +12,7 @@ This repository is for storing my code as I learn Node.js. It contains a variety
   </a>
 </p>
 
-
-
-
-##  [Introduced First Version Release!](https://github.com/YashNuhash/Testing-in-NodeJS/releases/tag/Release-V1.0.0)![](https://i.imgur.com/waxVImv.png)
-
-### 🚀 Features
-
-- **Initialized** 
-
-###  🐛 Bug fixes
-
-- **Completed**
-
-### 📖 Docs
-
-- **Will be Provided**
-
-### 🧰 Maintenance
-
--  **Will be Provided**
-
-
-### 📦 Dependencies
-
--  **Will be Provided**
-
-**Full Changelog**: https://github.com/YashNuhash/Testing-in-NodeJS/commits/Release-V1.0.0
-
-<br>
-          
+    
 ## Installation ![](https://i.imgur.com/waxVImv.png)
 
 Install my-project with npm
