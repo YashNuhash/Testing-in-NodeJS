@@ -22,7 +22,7 @@ Install my-project with npm
   cd my-project
 ```
     
-# Run Locally:
+### Run Locally:
 
 Clone the project
 
