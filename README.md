@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://socialify.git.ci/YashNuhash/Testing-in-NodeJS/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" alt="Testing-in-NodeJS" width="640" height="320" />
+<img src="https://socialify.git.ci/YashNuhash/Testing-in-NodeJS/image?description=1&descriptionEditable=Node.js%20is%20an%20open-source%2C%20server-side%20runtime%20environment&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light" alt="Testing-in-NodeJS" width="640" height="320" />
 </p>
 
 This repository is for storing my code as I learn Node.js. It contains a variety of projects, from simple to complex, that I have worked on. I hope that by sharing my code, I can help other people learn Node.js as well.
